@@ -5,7 +5,7 @@
 Hi! I'm Eugene See, a student in the Framework-Based Software Design and Development course.
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems to improve myself as a developer. I am excited to start this course
 
-(images/IMG_2827.jpg)
+![My Image](images/IMG_2827.jpg)
 
 ## GitHub Profile
 
